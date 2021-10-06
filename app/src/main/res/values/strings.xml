@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title"><b>Android Kotlin fundamentals quiz</b>\n
+        \nLet\'s do a quick test! You must answer at least 2 questions correctly to pass this quiz.</string>
+</resources>
